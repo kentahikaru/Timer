@@ -1,0 +1,11 @@
+o:\Timer\Timer\obj\Release\Timer.exe
+o:\Timer\Timer\obj\Release\Timer.pdb
+z:\Programming\Timer\Timer\obj\Release\Timer.exe
+z:\Programming\Timer\Timer\obj\Release\Timer.pdb
+z:\Programming\Timer\Timer\bin\Release\Timer.exe
+z:\Programming\Timer\Timer\bin\Release\Timer.pdb
+z:\Programming\Timer\Timer\obj\Release\MyTimer.csprojResolveAssemblyReference.cache
+z:\Programming\Timer\Timer\obj\Release\MyTimer.TimerForm.resources
+z:\Programming\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+z:\Programming\Timer\Timer\obj\Release\MyTimer.csproj.GenerateResource.Cache
+z:\Programming\Timer\Timer\obj\Release\MyTimer.TimerPanel.resources

@@ -1,0 +1,16 @@
+C:\Playground\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+C:\Playground\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Playground\Timer\Timer\obj\Debug\MyTimer.csproj.GenerateResource.Cache
+C:\Playground\Timer\Timer\obj\Debug\MyTimer.TimerForm.resources
+c:\Playground\Timer\Timer\bin\Debug\Timer.exe
+c:\Playground\Timer\Timer\bin\Debug\Timer.pdb
+c:\Playground\Timer\Timer\obj\Debug\Timer.exe
+c:\Playground\Timer\Timer\obj\Debug\Timer.pdb
+c:\Playground\Timer\Timer\bin\Release\Timer.exe
+c:\Playground\Timer\Timer\bin\Release\Timer.pdb
+c:\Playground\Timer\Timer\obj\Release\ResolveAssemblyReference.cache
+c:\Playground\Timer\Timer\obj\Release\MyTimer.TimerForm.resources
+c:\Playground\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+c:\Playground\Timer\Timer\obj\Release\MyTimer.csproj.GenerateResource.Cache
+c:\Playground\Timer\Timer\obj\Release\Timer.exe
+c:\Playground\Timer\Timer\obj\Release\Timer.pdb

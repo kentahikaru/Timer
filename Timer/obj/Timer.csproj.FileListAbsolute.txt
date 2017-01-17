@@ -1,0 +1,8 @@
+C:\Playground\Timer\Timer\obj\Debug\ResolveAssemblyReference.cache
+C:\Playground\Timer\Timer\obj\Debug\Timer.TimerForm.resources
+C:\Playground\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Playground\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Playground\Timer\Timer\bin\Debug\Timer.exe
+C:\Playground\Timer\Timer\bin\Debug\Timer.pdb
+C:\Playground\Timer\Timer\obj\Debug\Timer.exe
+C:\Playground\Timer\Timer\obj\Debug\Timer.pdb

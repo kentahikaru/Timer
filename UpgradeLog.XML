@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Timer">
+</Property><Property Name="Solution File" Value="O:\Timer\Timer.sln">
+</Property><Property Name="User Options File" Value="O:\Timer\Timer.suo">
+</Property><Property Name="Date" Value="12. dubna 2016">
+</Property><Property Name="Time" Value="22:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Timer.sln" Description="File successfully backed up as O:\Timer\Backup\Timer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Timer.suo" Description="File successfully backed up as O:\Timer\Backup\Timer.suo">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\MyTimer.csproj" Description="Project file successfully backed up as O:\Timer\Backup\Timer\MyTimer.csproj">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\TimerForm.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\TimerForm.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\TimerForm.Designer.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\TimerForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Program.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\Program.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Properties\AssemblyInfo.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Properties\Resources.Designer.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Properties\Settings.Designer.cs" Description="File successfully backed up as O:\Timer\Backup\Timer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Properties\Settings.settings" Description="File successfully backed up as O:\Timer\Backup\Timer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\TimerForm.resx" Description="File successfully backed up as O:\Timer\Backup\Timer\TimerForm.resx">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\Properties\Resources.resx" Description="File successfully backed up as O:\Timer\Backup\Timer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\MyTimer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MyTimer" Source="Timer\MyTimer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Timer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Timer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MyTimer" Source="Timer\MyTimer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
